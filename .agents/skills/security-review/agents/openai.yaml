@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Review"
+  short_description: "Assess auth, input, and data-handling risks in changes"
+  default_prompt: "Run a focused security review on this change set and report findings by severity and confidence with actionable mitigations."

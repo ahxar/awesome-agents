@@ -1,0 +1,4 @@
+interface:
+  display_name: "Change Readiness"
+  short_description: "Harden changes for merge and release with clear rollback notes"
+  default_prompt: "Run a change-readiness pass that audits compatibility, validation evidence, documentation sync, and rollback planning."

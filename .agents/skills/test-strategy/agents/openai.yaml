@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Strategy"
+  short_description: "Plan risk-based test scope and verification reporting"
+  default_prompt: "Plan a narrow-first test strategy for this change, including regression coverage, expansion criteria, and exact validation reporting."

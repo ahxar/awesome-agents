@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feature Cleanup"
+  short_description: "Cross-language post-feature cleanup pass"
+  default_prompt: "Run post-feature cleanup on recent changes, keep behavior stable, and execute relevant quality checks."
