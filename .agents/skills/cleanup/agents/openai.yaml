@@ -1,4 +1,4 @@
 interface:
   display_name: "Feature Cleanup"
-  short_description: "Cross-language post-feature cleanup pass"
-  default_prompt: "Run post-feature cleanup on recent changes, keep behavior stable, and execute relevant quality checks."
+  short_description: "Post-refactor less-is-more cleanup with behavior-preserving simplification"
+  default_prompt: "Run a post-feature cleanup with a less-is-more pass: reuse existing code, deduplicate implementations, remove unused code, keep behavior stable, and execute relevant quality checks."
